@@ -43,7 +43,7 @@ This project focuses on analyzing customer reviews from **Flipkart** to classify
 
 ## 📈 Evaluation
 
-- Accuracy Score
+- Accuracy Score= 93%
 - Classification Report (Precision, Recall, F1-Score)
 - Confusion Matrix
 - Tested sample predictions on real data
