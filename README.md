@@ -48,27 +48,27 @@ This project focuses on analyzing customer reviews from **Flipkart** to classify
 - Confusion Matrix
 - Tested sample predictions on real data
 
+## 🏠 Home Page
+![Home Page](Sentimentpic/Screenshot%20%28375%29.png)
 
-## Home Page
-![Home Page](Sentimentpic/Screenshot (375).png)
 ## 😊 Positive Review
-**Input**
-![Positive Input](Sentimentpic/Screenshot (376).png)
+**Input**  
+![Positive Input](Sentimentpic/Screenshot%20%28376%29.png)
 
-**Predicted Output**
-![Positive Output](Sentimentpic/Screenshot (377).png)
+**Predicted Output**  
+![Positive Output](Sentimentpic/Screenshot%20%28377%29.png)
 
-## 🤨 Negative Review
-**Input**
-![Negative Input](Sentimentpic/Screenshot (379).png)
+## 😡 Negative Review
+**Input**  
+![Negative Input](Sentimentpic/Screenshot%20%28379%29.png)
 
-**Predicted Output**
-![Negative Output](Sentimentpic/Screenshot (380).png)
+**Predicted Output**  
+![Negative Output](Sentimentpic/Screenshot%20%28380%29.png)
 
-## 🤨 Neutral Review
-**Input**
-![Neutral Input](Sentimentpic/Screenshot (382).png)
+## 😐 Neutral Review
+**Input**  
+![Neutral Input](Sentimentpic/Screenshot%20%28382%29.png)
 
-**Predicted Output**
-![Neutral Output](Sentimentpic/Screenshot (383).png)
+**Predicted Output**  
+![Neutral Output](Sentimentpic/Screenshot%20%28383%29.png)
 
