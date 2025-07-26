@@ -48,8 +48,27 @@ This project focuses on analyzing customer reviews from **Flipkart** to classify
 - Confusion Matrix
 - Tested sample predictions on real data
 
-### 📸 Model Prediction Output  
-![Model Output](Chatbotpic/Screenshot3.png)
 
-## 🗂️ Folder Structure
+## Home Page
+![Home Page](Sentimentpic/Screenshot (375).png)
+## 😊 Positive Review
+**Input**
+![Positive Input](Sentimentpic/Screenshot (376).png)
+
+**Predicted Output**
+![Positive Output](Sentimentpic/Screenshot (377).png)
+
+## 🤨 Negative Review
+**Input**
+![Negative Input](Sentimentpic/Screenshot (379).png)
+
+**Predicted Output**
+![Negative Output](Sentimentpic/Screenshot (380).png)
+
+## 🤨 Neutral Review
+**Input**
+![Neutral Input](Sentimentpic/Screenshot (382).png)
+
+**Predicted Output**
+![Neutral Output](Sentimentpic/Screenshot (383).png)
 
