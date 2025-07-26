@@ -21,8 +21,8 @@ with open("sentiment_model.pkl", "rb") as f:
 label_encoder = ["negative", "neutral", "positive"]
 
 # Load word vectors
-wv = api.load('glove-wiki-gigaword-50')
-# wv=api.load('word2vec-google-news-300')
+# wv = api.load('glove-wiki-gigaword-50')
+wv=api.load('word2vec-google-news-300')
 
 # NLP tools
 lemmatizer = WordNetLemmatizer()
